@@ -1,3 +1,6 @@
+# copyrights 
+  @kribo Tech 
+    
 # dexter
 
 import socket
